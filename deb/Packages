@@ -1,16 +1,16 @@
 Package: mindwtr
 Architecture: amd64
-Version: 0.8.3
+Version: 0.8.4
 Priority: optional
 Maintainer: DongDong
-Installed-Size: 35623
+Installed-Size: 35431
 Depends: libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
-Filename: ./mindwtr_0.8.3_amd64.deb
-Size: 13884814
-MD5sum: 89f93522bd58119f0b8f9f841ffc8bcc
-SHA1: b8ddc546fcc2d61a9a2ff00d146e17b20f8dd969
-SHA256: 50afc4aef2a97416230097d8f6cd837f1dee1ce21041bf150c2a81021e371c85
-SHA512: c58fdc7aa015b5859f7f49ba873b43250dc81a4de789cfddeb93c8d0cc2ffe8d9f25ddb4c1eae1470e5d252983d7b0b7e4a910711f29a749497e1d5eabac4c1c
+Filename: ./mindwtr_0.8.4_amd64.deb
+Size: 13804100
+MD5sum: ac7c10ebaaa206b5160a39bdd4e528de
+SHA1: 38117401aa804a09832021e6cc25425da52ea95d
+SHA256: df658168d5ad029069ea84548e58e618fdad01df5c9808ee5e2318ac7a201309
+SHA512: 5be3a4c7bd8b556b74b7c197ecf0dbeb92378f6957cb16e21c4da2e27055fee6b5377b7fdcf8a16e3fe9abccc56269d12a6914e00bd787590f0fd4f2a3d64e30
 Homepage: https://dongdongbh.tech
 Description: A complete Getting Things Done (GTD) productivity system - Mind Like Water
  (none)
